@@ -6,8 +6,7 @@ __pycache__/
 *.pyc
 *.pyo
 
-# 数据集
-dataset_full.csv
+# 临时数据文件（dataset_full.csv 需要提交到 Git 供云端使用）
 articles_list.csv
 ai_investment_report.csv
 
