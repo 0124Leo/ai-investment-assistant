@@ -1,0 +1,21 @@
+# Streamlit secrets（敏感信息）
+.streamlit/secrets.toml
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据集
+dataset_full.csv
+articles_list.csv
+ai_investment_report.csv
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
